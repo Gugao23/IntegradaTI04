@@ -1,0 +1,27 @@
+* {
+    font-family: "Prompt", sans-serif;
+}
+
+.nav-wrapper {
+    background: #094067;
+}
+
+.img {
+    width: 500px;
+}
+
+#logokixx {
+    filter: invert(1);
+}
+
+.divimg {
+    width: 1000px;
+    display: flex;
+}
+
+.divfoto{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 85%;
+}
